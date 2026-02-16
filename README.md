@@ -35,7 +35,7 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 
 ---
 
-## Honest Roles
+<img src="assets/honest roles logo.png" alt="Honest Roles Logo" width="200">
 
 **Take Control of Your Career**  
 An LLM-powered job board built by technical talent for technical talent.
