@@ -89,7 +89,7 @@ Help technical talent discover opportunities that truly match their skills and g
 | Path                                  | Description                                                                             | Link                                                                                  |
 |---------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | **🎓 University Capstones**           | Trilemma Foundation capstone projects hosted at leading STEM programs worldwide. | [Jump to University Capstone Projects](#university-capstone-projects)                                       |
-| **🔓 Contribute Open Source**         | Contribute to the main logic powering our microproduct via our Honest Roles python library. | [https://github.com/hypertrial/honestroles](https://github.com/hypertrial/honestroles)                                                    |
+| **🔓 Contribute Open Source**         | Contribute to the main logic powering our microproduct via our Honest Roles python library. | Jump to Contribute Open Source](#contribute-open-source)            |
 | **🏆 Tournaments**                    | Global, free-to-enter competitions. Prove your performance in public. | [Jump to Tournaments](#tournaments)                               |
 
 <p align="center">
