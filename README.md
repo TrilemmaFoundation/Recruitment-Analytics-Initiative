@@ -1,4 +1,4 @@
-# Recruitment Analytics Initiative
+# Recruitment Analytics Initiative <img src="assets/trilemma_foundation_white.png" alt="Recruitment Analytics Initiative" width="200" align="right">
 
 Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertrial.ai/) [Honest Roles](https://www.honestroles.com/) microproduct. Maintained by Trilemma Foundation, this repository is the gateway to making contributions to the product.
 
