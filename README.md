@@ -127,6 +127,6 @@ This is your chance to:
 
 Tournaments are **equal-opportunity competitions** where talent proves itself, and gets directly rewarded.
 
-📢 Visit [trilemma.foundation/tournaments](https://www.trilemma.foundation/tournaments) to stay up to date with the latest tournaments
+👉 [Visit trilemma.foundation/tournaments](https://www.trilemma.foundation/tournaments) to stay up to date with the latest tournaments
 
 ---
